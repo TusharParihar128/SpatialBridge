@@ -1,0 +1,13 @@
+{
+  "id": "parihartushar/spatialbridge-deconv-v2",
+  "title": "SpatialBridge Deconvolution",
+  "code_file": "deconv_kaggle.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": ["parihartushar/spatial-transcriptomics-dataset"],
+  "competition_sources": [],
+  "kernel_sources": []
+}

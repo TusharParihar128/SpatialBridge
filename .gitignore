@@ -1,0 +1,15 @@
+results/
+data/
+work/
+.nextflow/
+*.h5
+*.h5ad
+*.zip
+*.tar.gz
+*.log
+*.save
+*.mtx
+__pycache__/
+.nfs*
+colab_input.zip
+.nextflow.log*
